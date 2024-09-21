@@ -18,7 +18,7 @@
     "typescript": "^5.4.3"
   },
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "inversify": "^6.0.2",
     "inversify-express-utils": "^6.4.6",
     "reflect-metadata": "^0.2.1"
